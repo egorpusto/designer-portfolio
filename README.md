@@ -26,7 +26,7 @@ A minimalist, responsive portfolio website for a product designer. Features a cl
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile Navigation | Work Gallery |
+| Desktop | Tablet | Mobile |
 |--------------|-------------------|--------------|
 | *Hero Section*|
 | ![Desktop Hero](images/screenshots/desktop-hero.jpg) | ![Tablet Hero](images/screenshots/tablet-hero.jpg) | ![Mobile Hero](images/screenshots/phone-hero.jpg) |
