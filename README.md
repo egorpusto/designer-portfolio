@@ -91,30 +91,30 @@ Then visit http://localhost:8000 in your browser.
   - `script.js`             # Mobile navigation functionality
   - `styles.css`            # Main stylesheet
   - `images/`               # All images and assets
-  - `arrow.svg`             # Section arrow icon
-  - `avatar.jpg`            # Profile avatar image
-  - `close.svg`             # Close menu icon
-  - `logo.svg`              # Site logo 
-  - `mail.svg`              # Email button icon
-  - `menu.svg`              # Hamburger menu icon
-  - `project1.jpg`          # Personal projects
-  - `project2.jpg`  
-  - `project3.jpg`  
-  - `social1.jpg`           # Social media icons
-  - `social2.jpg`
-  - `social3.jpg`
-  - `social4.jpg`
-  - `social5.jpg`
-  - `visual1.jpg`           # Visual exploration images
-  - `visual2.jpg`
-  - `visual3.jpg`
-  - `visual4.jpg`
-  - `visual5.jpg`
-  - `visual6.jpg`
-  - `work1.jpg`             # Portfolio work samples
-  - `work2.jpg`
-  - `work3.jpg`
-  - `work4.jpg`
+    - `arrow.svg`             # Section arrow icon
+    - `avatar.jpg`            # Profile avatar image
+    - `close.svg`             # Close menu icon
+    - `logo.svg`              # Site logo 
+    - `mail.svg`              # Email button icon
+    - `menu.svg`              # Hamburger menu icon
+    - `project1.jpg`          # Personal projects
+    - `project2.jpg`  
+    - `project3.jpg`  
+    - `social1.jpg`           # Social media icons
+    - `social2.jpg`
+    - `social3.jpg`
+    - `social4.jpg`
+    - `social5.jpg`
+    - `visual1.jpg`           # Visual exploration images
+    - `visual2.jpg`
+    - `visual3.jpg`
+    - `visual4.jpg`
+    - `visual5.jpg`
+    - `visual6.jpg`
+    - `work1.jpg`             # Portfolio work samples
+    - `work2.jpg`
+    - `work3.jpg`
+    - `work4.jpg`
 
 ## ⚙️ Customization
 
