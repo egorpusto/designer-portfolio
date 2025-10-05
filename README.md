@@ -3,6 +3,11 @@
 ## 📝 Description
 A minimalist, responsive portfolio website for a product designer. Features a clean dark theme, smooth animations, and mobile-friendly navigation. Perfect for showcasing design work in an elegant and professional manner.
 
+## 🌐 Live Demo
+
+Check out the live version here:  
+[View Live Site](https://egorpusto.github.io/designer-portfolio/)
+
 ## ✨ Features
 
 ### 🎨 Design & UX
@@ -23,20 +28,6 @@ A minimalist, responsive portfolio website for a product designer. Features a cl
 - **JavaScript Navigation** for mobile menu toggle
 - **BEM Methodology** for clean and maintainable CSS
 - **Smooth Animations** with CSS transitions
-
-## 📸 Screenshots
-
-| Desktop | Tablet | Mobile |
-|--------------|-------------------|--------------|
-| *Hero Section*|
-| ![Desktop Hero](images/screenshots/desktop-hero.jpg) | ![Tablet Hero](images/screenshots/tablet-hero.jpg) | ![Mobile Hero](images/screenshots/phone-hero.jpg) |
-| *Works Section*|
-| ![Desktop Works](images/screenshots/desktop-works.jpg) | ![Tablet Works](images/screenshots/tablet-works.jpg) | ![Mobile Works](images/screenshots/phone-works.jpg) |
-| *Projects Section*|
-| ![Desktop Projects](images/screenshots/desktop-featured-work.jpg) | ![Tablet Projects](images/screenshots/tablet-desktop-featured-work.jpg) | ![Mobile Projects](images/screenshots/phone-desktop-featured-work.jpg) |
-| ![Desktop Projects](images/screenshots/desktop-personal-projects.jpg) | ![Tablet Projects](images/screenshots/tablet-personal-projects.jpg) | ![Mobile Projects](images/screenshots/phone-personal-projects.jpg) |
-| *Contact/Footer Section*|
-| ![Desktop Contact/Footer](images/screenshots/desktop-contact:footer.jpg) | ![Tablet Contact/Footer](images/screenshots/tablet-contact:footer.jpg) | ![Mobile Contact/Footer](images/screenshots/phone-contact:footer.jpg) |
 
 ## 🛠 Tech Stack
 
